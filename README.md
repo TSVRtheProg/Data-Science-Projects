@@ -43,36 +43,36 @@ Holiday Events:
 
 ## Steps to Run the Project
 Data Preparation:
-Load the Walmart_Store_sales dataset.
+  Load the Walmart_Store_sales dataset.
 
-Perform data cleaning and preprocessing.
+  Perform data cleaning and preprocessing.
 
 Exploratory Data Analysis (EDA):
-Visualize sales trends across different stores and time periods.
+  Visualize sales trends across different stores and time periods.
 
-Analyze the impact of holidays on sales.
+  Analyze the impact of holidays on sales.
 
 Statistical Analysis:
-Compute basic statistics to identify trends and insights.
+  Compute basic statistics to identify trends and insights.
 
-Perform time series analysis for quarterly and monthly trends.
+  Perform time series analysis for quarterly and monthly trends.
 
 Model Building:
-Develop linear regression models to predict sales.
+  Develop linear regression models to predict sales.
 
-Evaluate the impact of economic factors (CPI, unemployment, fuel price) on sales.
+  Evaluate the impact of economic factors (CPI, unemployment, fuel price) on sales.
 
-Transform dates for sequential analysis and create new variables.
+  Transform dates for sequential analysis and create new variables.
 
 Model Evaluation:
-Assess model performance using appropriate metrics (e.g., RMSE, MAE).
+  Assess model performance using appropriate metrics (e.g., RMSE, MAE).
 
-Validate the models on test data.
+  Validate the models on test data.
 
 Visualization and Reporting:
-Create visualizations to present findings and insights.
+  Create visualizations to present findings and insights.
 
-Develop a comprehensive report summarizing the analysis and model results.
+  Develop a comprehensive report summarizing the analysis and model results.
 
 ## Tools and Technologies
 Python: For data analysis and modeling.
