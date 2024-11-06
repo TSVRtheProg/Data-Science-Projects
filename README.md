@@ -9,19 +9,29 @@ Accurate demand forecasting is critical for Walmart to effectively manage invent
 The historical sales data spans from 2010-02-05 to 2012-11-01 and includes the following fields:
 
    Store: Store number
+   
    Date: Week of sales
+   
    Weekly_Sales: Sales for the given store
+   
    Holiday_Flag: Indicator of a special holiday week (1 – Holiday week, 0 – Non-holiday week)
+   
    Temperature: Temperature on the day of sale
+   
    Fuel_Price: Cost of fuel in the region
+   
    CPI: Prevailing Consumer Price Index
+   
    Unemployment: Prevailing unemployment rate
    
 Holiday Events:
 
    Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
+   
    Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13
+   
    Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13
+   
    Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 ## Analysis Tasks
@@ -43,26 +53,26 @@ Holiday Events:
 
 ## Steps to Run the Project
 Data Preparation:
-  Load the Walmart_Store_sales dataset.
+  --> Load the Walmart_Store_sales dataset.
 
-  Perform data cleaning and preprocessing.
+  --> Perform data cleaning and preprocessing.
 
 Exploratory Data Analysis (EDA):
-  Visualize sales trends across different stores and time periods.
+  --> Visualize sales trends across different stores and time periods.
 
-  Analyze the impact of holidays on sales.
+  --> Analyze the impact of holidays on sales.
 
 Statistical Analysis:
-  Compute basic statistics to identify trends and insights.
+  --> Compute basic statistics to identify trends and insights.
 
-  Perform time series analysis for quarterly and monthly trends.
+  --> Perform time series analysis for quarterly and monthly trends.
 
 Model Building:
-  Develop linear regression models to predict sales.
+  --> Develop linear regression models to predict sales.
 
-  Evaluate the impact of economic factors (CPI, unemployment, fuel price) on sales.
+  --> Evaluate the impact of economic factors (CPI, unemployment, fuel price) on sales.
 
-  Transform dates for sequential analysis and create new variables.
+  --> Transform dates for sequential analysis and create new variables.
 
 Model Evaluation:
   Assess model performance using appropriate metrics (e.g., RMSE, MAE).
@@ -70,9 +80,9 @@ Model Evaluation:
   Validate the models on test data.
 
 Visualization and Reporting:
-  Create visualizations to present findings and insights.
+  --> Create visualizations to present findings and insights.
 
-  Develop a comprehensive report summarizing the analysis and model results.
+  --> Develop a comprehensive report summarizing the analysis and model results.
 
 ## Tools and Technologies
 Python: For data analysis and modeling.
