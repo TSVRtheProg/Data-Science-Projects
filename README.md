@@ -24,7 +24,7 @@ The historical sales data spans from 2010-02-05 to 2012-11-01 and includes the f
    
    Unemployment: Prevailing unemployment rate
    
-Holiday Events:
+#### Holiday Events:
 
    Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
    
