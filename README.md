@@ -53,21 +53,25 @@ The historical sales data spans from 2010-02-05 to 2012-11-01 and includes the f
 
 ## Steps to Run the Project
 Data Preparation:
+
   --> Load the Walmart_Store_sales dataset.
 
   --> Perform data cleaning and preprocessing.
 
 Exploratory Data Analysis (EDA):
+
   --> Visualize sales trends across different stores and time periods.
 
   --> Analyze the impact of holidays on sales.
 
 Statistical Analysis:
+
   --> Compute basic statistics to identify trends and insights.
 
   --> Perform time series analysis for quarterly and monthly trends.
 
 Model Building:
+
   --> Develop linear regression models to predict sales.
 
   --> Evaluate the impact of economic factors (CPI, unemployment, fuel price) on sales.
@@ -75,11 +79,13 @@ Model Building:
   --> Transform dates for sequential analysis and create new variables.
 
 Model Evaluation:
-  Assess model performance using appropriate metrics (e.g., RMSE, MAE).
 
-  Validate the models on test data.
+  --> Assess model performance using appropriate metrics (e.g., RMSE, MAE).
+
+  --> Validate the models on test data.
 
 Visualization and Reporting:
+
   --> Create visualizations to present findings and insights.
 
   --> Develop a comprehensive report summarizing the analysis and model results.
@@ -95,3 +101,6 @@ Scikit-Learn: For building and evaluating machine learning models.
 
 ## Conclusion
 This project provides Walmart with a complete study of their sales data, allowing them to better understand important patterns and factors that influence sales. Walmart's predictive analytics will allow it to more correctly forecast demand, decreasing stockouts and enhancing the satisfaction of customers.
+
+# Strengthen your retail strategy utilising data-driven insights! 🛒📈
+
